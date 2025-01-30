@@ -2,6 +2,8 @@
 
 A tool to check for DNS zone transfer vulnerabilities in a domain or a list of domains. It attempts to identify open DNS servers that are susceptible to zone transfers, which could potentially expose sensitive subdomain information.
 
+![Example](https://github.com/CandyCaneCapone/ZoneSnatcher/blob/main/example.png?raw=true)
+
 ## Features
 
 - Supports checking a single domain or a list of domains.
